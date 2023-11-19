@@ -1,0 +1,19 @@
+{
+  "name": "realmarkdownviewer",
+  "version": "1.0.0",
+  "description": "Realtime Markdown Viewer",
+  "main": "server.js",
+  "keywords": [
+    "markdown",
+    "realtime",
+    "sharejs"
+  ],
+  "author": "theekshana",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "redis": "^4.6.10",
+    "share": "^0.6.3"
+  }
+}
